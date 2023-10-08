@@ -391,6 +391,14 @@ footer {
     .aboutMe h1 {
         text-align: center;
     }
+    .project .button{
+        display: flex;
+        justify-content: center;
+    }
+    .project p {
+        text-align: center;
+    }
+
 }
 
 /* Media querie for Dark Mode */
