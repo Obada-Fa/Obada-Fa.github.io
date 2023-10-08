@@ -146,12 +146,14 @@ header {
 .project {
     display: flex;
     flex-direction: column;
+    justify-content: space-evenly;
     flex: 1;
     border: black solid 1px;
     margin: 2vw;
     margin-top: 0;
     border-radius: 1vw;
 }
+
 
 .project p {
     font-family: 'Abel', sans-serif;
