@@ -391,12 +391,11 @@ footer {
     .aboutMe h1 {
         text-align: center;
     }
-    .project .button{
-        display: flex;
-        justify-content: center;
-    }
-    .project p {
-        text-align: center;
+    .project h3,
+    .project .stars,
+    .project .button,
+    .project p{
+        margin: 5px;
     }
 
 }
