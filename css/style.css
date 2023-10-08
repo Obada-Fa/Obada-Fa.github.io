@@ -146,7 +146,7 @@ header {
 .project {
     display: flex;
     flex-direction: column;
-    justify-content: space-evenly;
+    justify-content: space-between;
     flex: 1;
     border: black solid 1px;
     margin: 2vw;
